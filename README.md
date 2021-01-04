@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello and welcome! 👋
+- 🤖 Hi, my name is Daniel and I am 21.
+- 📚 I’m currently a final year student in GMIT.
+- 🌱 I love learning new language and games development.
+- ⚙️ Currently working on a wide variety of projects via my course.
+- 📊 My interests include cryptocurrency, Formula 1 racing, cars and music.(Spotify linked below)
 
-<!--
-**DanielGallagher6499/DanielGallagher6499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src = "https://github-readme-stats.vercel.app/api?username=DanielGallagher6499&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Best ways to reach me 📫
+- Email - Danielgallagher707@gmail.com
+- Twitter - https://twitter.com/TheOneDannyG
+- Spotify - (https://open.spotify.com/user/theonedanielg?si=oE8iBK-2ROGzc_JZpJirlw)
