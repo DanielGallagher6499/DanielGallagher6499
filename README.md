@@ -1,7 +1,7 @@
 ### Hello and welcome! 👋
 - 🤖 Hi, my name is Daniel and I am 21.
 - 📚 I’m currently a final year student in GMIT.
-- 🌱 I love learning new language and games development.
+- 🌱 I love learning new languages and games development.
 - ⚙️ Currently working on a wide variety of projects via my course.
 - 📊 My interests include cryptocurrency, Gaming, Formula 1 racing, cars and music.(Spotify linked below)
 
