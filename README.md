@@ -11,4 +11,4 @@
 ### Best ways to reach me 📫
 - Email - Danielgallagher707@gmail.com
 - Twitter - https://twitter.com/TheOneDannyG
-- Spotify - (https://open.spotify.com/user/theonedanielg?si=oE8iBK-2ROGzc_JZpJirlw)
+- Spotify - https://open.spotify.com/user/theonedanielg?si=oE8iBK-2ROGzc_JZpJirlw
