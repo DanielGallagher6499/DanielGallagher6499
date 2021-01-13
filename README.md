@@ -3,7 +3,7 @@
 - 📚 I’m currently a final year student in GMIT.
 - 🌱 I really like games development and working with unity.
 - ⚙️ Currently working on a wide variety of projects through my university course.
-- 📊 My interests include cryptocurrency, Gaming, Formula 1 racing, cars and music.(Spotify linked below)
+- 📊 My interests include Cryptocurrency, Stocks, Gaming, Formula 1, Cars and Music.(Spotify linked below)
 
 
 <img height="137.3px" src = "https://github-readme-stats.vercel.app/api?username=DanielGallagher6499&&show_icons=true&title_color=00FF00&icon_color=BDB76B&text_color=BDB76B&bg_color=000000"/>
