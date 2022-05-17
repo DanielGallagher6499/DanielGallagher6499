@@ -1,6 +1,6 @@
 ### Hello and welcome! 👋
 - 🤖 Hi, my name is Daniel and I am 23.
-- 📚 I’m currently a final year student in GMIT.
+- 📚 GMIT Software development graduate.
 - 🌱 I really like games development and working with unity.
 - ⚙️ Currently working on a wide variety of projects through my university course.
 - 📊 My interests include Cryptocurrency, Stocks, Gaming, Formula 1, Cars and Music.(Spotify linked below)
