@@ -1,5 +1,5 @@
 ### Hello and welcome! 👋
-- 🤖 Hi, my name is Daniel and I am 22.
+- 🤖 Hi, my name is Daniel and I am 23.
 - 📚 I’m currently a final year student in GMIT.
 - 🌱 I really like games development and working with unity.
 - ⚙️ Currently working on a wide variety of projects through my university course.
