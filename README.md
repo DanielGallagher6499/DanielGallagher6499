@@ -1,5 +1,5 @@
 ### Hello and welcome! 👋
-- 🤖 Hi, my name is Daniel and I am 23.
+- 🤖 Hi, my name is Daniel and I am 24.
 - 📚 GMIT Software development graduate.
 - 🌱 I really like games development and working with unity.
 - ⚙️ Currently working on a wide variety of projects through my university course.
